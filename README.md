@@ -49,7 +49,7 @@ pip install yfinance pandas numpy matplotlib scikit-learn tensorflow
 
 ### 3. Run the Notebook
 
-Open `Complete_Crypto_Price_Prediction.ipynb` in Jupyter Notebook or VS Code.
+Open `CRYPTO_PRICE_PREDICTION.ipynb` in Jupyter Notebook or VS Code.
 
 ---
 
