@@ -86,6 +86,4 @@ Open `Complete_Crypto_Price_Prediction.ipynb` in Jupyter Notebook or VS Code.
 
 ---
 
-## 📜 License
 
-MIT License © 2025 Your Name
