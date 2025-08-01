@@ -1,4 +1,4 @@
-# 📈 Cryptocurrency Price Prediction using LSTM
+# 📈 Cryptocurrency Price Prediction using LSTM!
 
 Predict future Bitcoin prices using historical data and Long Short-Term Memory (LSTM) neural networks. This project leverages deep learning to model time-series data from Yahoo Finance and visualize predictions versus actual prices.
 
