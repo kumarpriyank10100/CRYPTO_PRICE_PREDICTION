@@ -82,7 +82,7 @@ Open `CRYPTO_PRICE_PREDICTION.ipynb` in Jupyter Notebook or VS Code.
 
 - Yahoo Finance (`yfinance`)
 - TensorFlow/Keras team
-- Open-source contributors
+
 
 ---
 
